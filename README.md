@@ -11,15 +11,13 @@ The misspelling of anti-virus is deliberate, this is a project to further unders
 | [Kaspersky](https://www.kaspersky.co.uk/)     |                                    |
 | [Bitdefender](https://www.bitdefender.co.uk/) |                                    |
 
-Blog post: TBD
+Blog post: TBD  
 
 ## Compilation  
 
 You will need Golang installed  
 Open Bash  
-Download the code to your Downloads folder (unzip the code)  
-<code>wget https://github.com/ScioShield/anti-varus-linux.git -P ~/Downloads</code>  
-Open the downloads folder  
+Download the code to your Downloads folder  
 <code>wget -O ~/Downloads/anti-varus.zip https://github.com/ScioShield/anti-varus-linux/archive/refs/heads/master.zip</code>  
 Unzip the file  
 <code>unzip ~/Downloads/anti-varus.zip -d ~/Downloads</code>  
@@ -42,4 +40,4 @@ Target file: /home/scio/Downloads/anti-varus-linux-master/varus.vdb
 File SHA256 Hash is: ed99d22d63e71f29065929d608851e593b40697293c4701de53ecd073e5cc293  /home/ghost/Downloads/anti-varus-linux-master/varus.vdb
 ```  
 
-Do not run the code against large files!    
+Do not run anti-varus against large files!    
